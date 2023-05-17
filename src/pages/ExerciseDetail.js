@@ -9,8 +9,6 @@ import SimilarExercises from '../components/SimilarExercises'
 
 const ExerciseDetail = () => {
 
-
-
 const [ exerciseDetail, setExerciseDetail] = useState({});
 const [ exerciseVideos , setExercisevideos] = useState([])
 
@@ -32,14 +30,13 @@ useEffect( () => {
     setExercisevideos(exerciseVideoData.contents)
 
 
-
 };
 
 fetchExerciseData()
 }, [id]);
 
   return (
-<Box>
+<Box className='exercise-videos'>
   <Detail exerciseDetail={exerciseDetail} />
   <ExerciseVidoes exerciseVideos={exerciseVideos}  name={exerciseDetail.name} />
   <SimilarExercises />

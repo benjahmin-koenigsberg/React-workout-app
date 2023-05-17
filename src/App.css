@@ -1,5 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
 body {
-    font-family: 'Josefin Sans';
+    font-family: 'Poppins', sans-serif;
     background-color: #FFFAFB;
 }
 
@@ -75,10 +77,16 @@ body {
     padding-bottom: 10px;
     transform: scale(1, 1);
     transition: 0.3s all ease-in-out;
+   box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+
 }
 
 .exercise-card img {
     height: 326px;
+}
+
+.exercise-videos{
+    margin: 0 auto;
 }
 
 .bodyPart-card {

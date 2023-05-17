@@ -53,7 +53,7 @@ const handleSearch = async () => {
         <br />
         Should Know
       </Typography>
-      <Box position="realtaive" mb="72px">
+      <Box position="relative" mb="72px">
         <TextField
           sx={{
             input: { fontWeight: "700", border: "none", borderRadius: "4px" },
