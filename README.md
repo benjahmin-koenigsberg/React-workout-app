@@ -8,7 +8,10 @@ This was a code-a-long to a Javascript Mastery tutorial
 
 https://www.youtube.com/watch?v=KBpoBc98BwM
 
-Screen Shot 2023-05-17 at 1.28.47 PM.png
+![Screen Shot 2023-05-17 at 1 28 47 PM](https://github.com/benjahmin-koenigsberg/React-workout-app/assets/116445988/6bb253b1-7e42-4bb5-9da3-3f21a77b62da)
+
+![Screen Shot 2023-05-17 at 1 29 03 PM](https://github.com/benjahmin-koenigsberg/React-workout-app/assets/116445988/b13e37e5-d479-4102-aa2f-12965a333564)
+
 
 ## Run this app
 
